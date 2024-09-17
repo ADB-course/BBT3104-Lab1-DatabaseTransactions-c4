@@ -4,10 +4,16 @@
 
 | **Key**                                                               | Value                                                                                                                                                                              |
 |---------------|---------------------------------------------------------|
+<<<<<<< HEAD
 | **Group Name**                                                               |C4|
+=======
+| **Group Name**                                                               | C4 |
+>>>>>>> e45aa08888e8009f4da761af217e91013ef9bf84
 | **Semester Duration**                                                 | 19<sup>th</sup> August - 25<sup>th</sup> November 2024                                                                                                                       |
 
 ## Flowchart
+![image](https://github.com/user-attachments/assets/79756286-4649-4ef4-9f58-da89d17698f3)
+
 
 ## Pseudocode
 Begin
